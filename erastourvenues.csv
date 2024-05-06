@@ -1,4 +1,4 @@
-"tour name","venue","city","region","country","continent","dates","capacity","latitude","longitude","population"
+"tour name","venue name","city","region","country","continent","tour dates","venue max capacity","latitude","longitude","total population"
 "The Eras Tour","State Farm Stadium ","Glendale","Arizona","United States","North America","17.03.23,18.03.23","78600","33.5791","-112.2311","248083.0"
 "The Eras Tour","Allegiant Stadium","Paradise","Nevada","United States","North America","24.03.23,25.03.23","71835","36.0872","-115.1355","189733.0"
 "The Eras Tour","AT&T Stadium","Arlington","Texas","United States","North America","31.03.23,01.04.23,02.04.23","71835","32.6998","-97.1250","393469.0"
